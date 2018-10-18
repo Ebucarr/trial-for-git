@@ -1,4 +1,6 @@
 New Text File For Git init In Trial Folder
 git init {initialize the repository}
 git status{show were you stand at any given time i.e have you made any commits, which files are being tracked, which files have been committed }
-git add{add a file for tracking(staging)}
+git add{add a file for tracking(staging)} whenever you make a change to the document you have to stage the change
+git commit{commits the changes; opens a vim screen (Pressing I ALLOWS YOU TO ENTER YOUR COMMIT MESSAGE then press the escape key; :wq exits the vim screen)
+gity commit -m 'commit message'{allows you to enter your commit message without opening the vim screen}
