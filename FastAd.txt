@@ -13,5 +13,9 @@ touch .gitignore {creates a file that contains file names or extensions to be ex
 Branching and Merging
 git branch branch name{creates a new branch}
 git checkout branch name{switches to the branch}
+<<<<<<< HEAD
 
 Dealing with merge conflicts
+=======
+git merge {merge changes between a branch and master branch}
+>>>>>>> master
