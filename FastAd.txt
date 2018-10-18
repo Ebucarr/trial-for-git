@@ -8,3 +8,8 @@ git commit -m 'commit message'{allows you to enter your commit message without o
 git log {shows the commit history and details}
 git add . {stages all the changes in a repository}
 git add *.file extension {stages changes of a particular file type}
+touch .gitignore {creates a file that contains file names or extensions to be excluded when staging changes}
+
+Branching and Merging
+git branch branch name{creates a new branch}
+git checkout branch name{switches to the branch}
