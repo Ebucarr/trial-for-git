@@ -1,0 +1,4 @@
+New Text File For Git init In Trial Folder
+git init {initialize the repository}
+git status{show were you stand at any given time i.e have you made any commits, which files are being tracked, which files have been committed }
+git add{add a file for tracking(staging)}
