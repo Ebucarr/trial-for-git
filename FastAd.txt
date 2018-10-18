@@ -16,3 +16,5 @@ git checkout branch name{switches to the branch}
 
 Dealing with merge conflicts
 git merge {merge branches}
+
+git stash {wil get around to that later}
