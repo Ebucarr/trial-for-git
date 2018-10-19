@@ -20,6 +20,7 @@ git merge {merge branches}
 git stash {wil get around to that later}
 
 git remote {list remote repository}
-git remote -v {list the urls}
+git remote add origin 'repository url'
+git remote -v {list the urls; verify remote urls}
 git fetch origin{fetch changes made to the repo since you last cloned}
 git pull{fetch and merge changes}
