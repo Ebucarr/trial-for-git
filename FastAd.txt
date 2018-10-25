@@ -23,4 +23,4 @@ git remote {list remote repository}
 git remote add origin 'repository url'
 git remote -v {list the urls; verify remote urls}
 git fetch origin{fetch changes made to the repo since you last cloned}
-git pull origin branchname {fetch and merge changes} (--allow-unrelated-histories)
+git pull origin branchname {fetch and merge changes} (--allow-unrelated-historiesg)
